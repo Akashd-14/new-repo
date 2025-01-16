@@ -1,5 +1,6 @@
 COMMANDS USED IN THIS VIDEO
 
+
 sudo su
 
 command to install docker is
